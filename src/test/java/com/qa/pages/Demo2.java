@@ -6,9 +6,9 @@ public class Demo2 {
 		System.out.println("This is class B()");
 	}
 	
-	public void Bdsa()
+	public void B()
 	{
-		System.out.println("This is class Bdas()");
+		System.out.println("This is class B()");
 	}
 
 }
