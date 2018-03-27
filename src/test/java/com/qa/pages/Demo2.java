@@ -5,5 +5,10 @@ public class Demo2 {
 	{
 		System.out.println("This is class B()");
 	}
+	
+	public void Bdsa()
+	{
+		System.out.println("This is class Bdas()");
+	}
 
 }
