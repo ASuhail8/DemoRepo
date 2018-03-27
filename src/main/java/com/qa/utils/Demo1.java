@@ -14,5 +14,8 @@ public class Demo1 {
 	public void E() {
 			System.out.println("This is E class");
 		}
+	public void F() {
+			System.out.println("This is F class");
+		}
 
 }
