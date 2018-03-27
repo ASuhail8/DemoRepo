@@ -6,4 +6,9 @@ public class Demo1 {
 		System.out.println("This is A class");
 	}
 
+	
+		public void D() {
+			System.out.println("This is D class");
+		}
+
 }
